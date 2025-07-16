@@ -1,0 +1,50 @@
+{
+  "categorias": [
+    {
+      "id": "0d21",
+      "nome": "Shoppings",
+      "descricao": "Lugares para passear e fazer compras."
+    },
+    {
+      "id": "3f87",
+      "nome": "Restaurantes",
+      "descricao": "Lugares para comer."
+    },
+    {
+      "id": "74f8",
+      "nome": "Praias",
+      "descricao": "Lugares para banho ou passeio."
+    },
+    {
+      "id": "2cb6",
+      "nome": "Praças",
+      "descricao": "Lugares para passear com a família."
+    }
+  ],
+  "lugares": [
+    {
+      "id": "5fbf",
+      "nome": "Praia do Futuro",
+      "categoria": "Praias",
+      "localizacao": "Ceará",
+      "urlFoto": "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/10/praia-do-futuro-fortaleza-capa2019-01.jpg",
+      "avaliacao": "3"
+    },
+    {
+      "id": "a282",
+      "nome": "Shopping Teresina",
+      "categoria": "Shoppings",
+      "localizacao": "Piauí",
+      "urlFoto": "https://folhapiaui.com.br/wp-content/uploads/2022/04/teresina-shopping.jpg",
+      "avaliacao": "4"
+    },
+    {
+      "id": "cecc",
+      "nome": "Alma RS",
+      "categoria": "Restaurantes",
+      "localizacao": "Rio Grande do Sul",
+      "urlFoto": "https://resize.casapino.com.br/?u=https://cms-bomgourmet.s3.amazonaws.com/bomgourmet/2020/01/202001/alma-rs-restaurante-1-7b226580.jpg&w=661",
+      "avaliacao": "5"
+    }
+  ]
+}
