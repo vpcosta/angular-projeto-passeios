@@ -2,17 +2,23 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
 
-## Development server
+## Run servers
 
 To start a local development server, run:
 
+### Fake API server
+```bash
+npm run server
+```
+
+### Angular server
 ```bash
 ng serve
 ```
 
 ## Development server
 
-To access app go to http://localhost:4200/site
+To access app go to http://localhost:4200
 
 ## Code scaffolding
 
